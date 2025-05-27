@@ -31,7 +31,7 @@ This library includes:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/nish340/Ui_Library.git
 
 # Navigate to the project directory
 cd CommonUi
